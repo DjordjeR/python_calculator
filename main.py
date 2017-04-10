@@ -17,7 +17,7 @@ def do_math():
     else:
         equation = input(str(previous))
     if equation == 'quit' or equation == 'EOF':
-        print("Good bye!")
+        print("Good-bye!")
         run = False
     else:
         equation = re.sub('[a-zA-z,.:()" "]', '', equation)
