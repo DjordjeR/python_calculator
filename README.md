@@ -5,7 +5,7 @@ eval(equation)
 ```
 
 ## Usage
-Type 'quit to close the script
+Type 'quit' to close the script
 
 Type your equation is the following form:
 ```
@@ -23,6 +23,6 @@ Enter equation:5 * 7
 ```
 
 ## TODOs
-1. Add option to clear screen
-2. Add option to start over
-3. Make GUI
+1. Add option to clear screen ✗
+2. Add option to start over ✗
+3. Make GUI ✗
