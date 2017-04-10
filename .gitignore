@@ -92,3 +92,4 @@ ENV/
 .idea/modules.xml
 .idea/python_calculator.iml
 .idea/workspace.xml
+.idea/
