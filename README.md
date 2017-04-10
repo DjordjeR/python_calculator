@@ -1,2 +1,2 @@
-# python_calculator
-Simple python3 calculator
+# Python Calulator
+Simple command line calculator built in Python 3
