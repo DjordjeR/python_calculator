@@ -8,11 +8,11 @@ eval(equation)
 Type 'quit to close the script
 
 Type your equation is the following form:
-
+```
 5 + 6
 
 7*8
-
+```
 ## Examples
 ```
 Enter equation:5 * 7
