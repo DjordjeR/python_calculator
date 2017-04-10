@@ -21,3 +21,8 @@ Enter equation:5 * 7
 
 43
 ```
+
+## TODOs
+1. Add option to clear screen
+2. Add option to start over
+3. Make GUI
