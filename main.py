@@ -1,12 +1,10 @@
 import re  # regex for parsing command line input
 
-
 print("My Calculator")
 print("Type 'quit' to exit\n")
 
 previous = 0
 run = True
-
 
 def do_math():
     global run
